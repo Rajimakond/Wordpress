@@ -1,0 +1,2 @@
+To run playbook :
+ansible-playbook /etc/ansible/pb.yml -i /etc/ansible/hosts -u raji -K
